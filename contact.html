@@ -27,6 +27,43 @@
      </ul>
      </div>
  </nav>
+     <main class="form-content">
+    <div class="form-container">
+        <h2>Send Us a Message</h2>
+        <hr>
+        <form>
+            
+            <label for="name" class="form-text-label">Name <span class="required">*</span></label>
+            <input type="text" id="name" name="name" size="30" placeholder="Full Name" class="form-text-input">
+           
+            <label for="email" class="form-text-label">Email</label>
+            <input type="email" id="email" name="email" size="30" placeholder="Email Address" class="form-text-input">
+            
+            <label for="phone" class="form-text-label">Phone Number</label>
+            <input type="tel" id="phone" name="phone" size="30" placeholder="Phone Number" class="form-text-input">
+          
+            <div class="contact-group">
+                <input type="checkbox" id="check1" name="check1">
+                <label for="check1">Call Me</label>
+                <input type="checkbox" id="check2" name="check2">
+                <label for="check2">Email Me</label>
+            </div>
+            
+            <label for="category" class="form-text-label">Message Type</label>
+            <select id="category" class="form-text-input">
+                <option>Inquiry</option>
+                <option>Request</option>
+                <option>Other</option>
+            </select>
+            
+            <label for="message" class="form-text-label">Message <span class="required">*</span></label>
+            <textarea id="message" name="message" rows="4"></textarea>
+           
+            <input class="btn" type="submit" value="Submit">
+        </form>
+    </div>
+</main>
+ 
 
  <section class="services">
     <div class="services-box">
