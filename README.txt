@@ -9,10 +9,14 @@ Work done by Alisha Wadhera-
 Coded visual aspects of contact.html, kids.html.
 S.E.O.
 
-We have implemented a two tone website. - Dark Red and Black for visual asthetics.
-Its a mobile friendly website with easy navigation controls.
-hover effects and animations are used wherever needed. 
-Appropriate fonts are used throughout the website and special fonts are used in cover images for additional style.
-The website is Search Engine Optimised with specific keywords , alt tags, content added in the head and body of the file.
-To improve the website's accessibility compliance,there are valid html codes, Lang attribute is added,descriptive links and labels are used,accessible images are added. 
+We have implemented a two tone website. - Dark Red and Black for visual asthetics in addition to keeping in mind the contrasts and proximity principles..
 
+Its a mobile friendly website with easy navigation controls.
+
+Hover effects and animations are used wherever needed to increase the visual appeal of the website. 
+
+Appropriate fonts are used throughout the website and special fonts are used in cover images for additional style.
+
+The website is Search Engine Optimised with specific keywords , alt tags, content added in the head and body of the file.
+
+To improve the website's accessibility compliance,there are valid html codes, Lang attribute is added,descriptive links and labels are used,accessible images are added. 
