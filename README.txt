@@ -8,8 +8,9 @@ Connection to github
 Work done by Alisha Wadhera-
 Coded visual aspects of contact.html, kids.html.
 S.E.O.
+Web accessibility compliance of the website.
 
-We have implemented a two tone website. - Dark Red and Black for visual asthetics in addition to keeping in mind the contrasts and proximity principles..
+We have implemented a two tone website. - Dark Red and Black for visual asthetics in addition to keeping in mind the contrasts and proximity principles.
 
 Its a mobile friendly website with easy navigation controls.
 
