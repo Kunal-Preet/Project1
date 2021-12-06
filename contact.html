@@ -27,10 +27,14 @@
      </ul>
      </div>
  </nav>
-     <main class="form-content">
+    <div class="hero6"></div>
+
+ <main class="form-content">
     <div class="form-container">
-        <h2>Send Us a Message</h2>
+        <h2>Contact Us</h2>
         <hr>
+        <h5>We'd love to hear from you! Leave a message below and we will get back to you shortly.</h5>
+        <br>
         <form>
             
             <label for="name" class="form-text-label">Name <span class="required">*</span></label>
@@ -44,20 +48,24 @@
           
             <div class="contact-group">
                 <input type="checkbox" id="check1" name="check1">
-                <label for="check1">Call Me</label>
+                <label for="check1">Call Us</label>
                 <input type="checkbox" id="check2" name="check2">
-                <label for="check2">Email Me</label>
+                <label for="check2">Email Us</label>
+                <input type="checkbox" id="check3" name="check3">
+                <label for="check3">Live Chat</label>
             </div>
-            
+           
             <label for="category" class="form-text-label">Message Type</label>
             <select id="category" class="form-text-input">
+                <option>Return/Refund</option>
                 <option>Inquiry</option>
-                <option>Request</option>
+                <option>Complaint</option>
+                <option>Delivery Issue</option>
                 <option>Other</option>
             </select>
             
             <label for="message" class="form-text-label">Message <span class="required">*</span></label>
-            <textarea id="message" name="message" rows="4"></textarea>
+            <textarea id="message" name="message" rows="4" placeholder="Type your message here."></textarea>
            
             <input class="btn" type="submit" value="Submit">
         </form>
